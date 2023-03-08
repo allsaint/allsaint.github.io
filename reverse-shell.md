@@ -4,13 +4,13 @@ layout: default
 
 # Simple Reverse Shell implementation
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is one of my first C++ code projects. Working example of reverse shell. Tested on 2 VM's - Windows SP1 and Kali.
 
 ## Header 2
 
-> This is a blockquote following a header.
+> I've spend hours on mking it work.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> The main struggle here was the WINAPI user defined datatypes aka typedef implementations: FARPOC, SOCKET etc.
 
 ### C++ Code
 
