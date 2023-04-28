@@ -1,6 +1,5 @@
 ---
-title: Asprotect Unpacking
-layout: post
+layout: default
 ---
 
 # Introduction
