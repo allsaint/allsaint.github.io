@@ -4,7 +4,7 @@ layout: default
 
 
 
-[RC4 algorithm implementation](./articles/another-page.html)#.
+[RC4 algorithm implementation](./another-page.md)
 
 # About
 
@@ -24,7 +24,7 @@ This is a quick tutorial on asprotect unpacking. Asprotect is one of the popular
 
 
 
-[Asprotect unpacking](./asprotect-unpacking.html)
+[Asprotect unpacking](./asprotect-unpacking.md)
 
 # About
 
