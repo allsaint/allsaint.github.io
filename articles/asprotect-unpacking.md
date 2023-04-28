@@ -33,7 +33,7 @@ Here is the instruction section referencing kernel32.dll
  function call.
 Return from this function is checked and used for raising exception, in result program flow is stopped.
 
-![antidebug.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/main/images/antidebug.png)
+![antidebug.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/master/images/antidebug.png)
 
 
 
@@ -44,7 +44,7 @@ OEP is located by leveraging proped breakpoints on memory sections. In our case 
 
 
 
-![oep.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/main/images/oep.png)
+![oep.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/master/images/oep.png)
 
 
 
@@ -54,7 +54,7 @@ OEP is located by leveraging proped breakpoints on memory sections. In our case 
 
 Mempory dump is implemented using idc script.
 
-![memdump.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/main/images/memdump.png)
+![memdump.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/master/images/memdump.png)
 
 
 
@@ -74,17 +74,17 @@ static main()
 
 ## IAT restoration
 
-![iat.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/main/images/iat.png)
+![iat.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/master/images/iat.png)
 
 ## Function call restoration
 
 
 Before: 
-![before.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/main/images/before.png)
+![before.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/master/images/before.png)
 
 
 After:
-![after.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/main/images/after.png)
+![after.png](https://raw.githubusercontent.com/allsaint/allsaint.github.io/master/images/after.png)
 
 
 

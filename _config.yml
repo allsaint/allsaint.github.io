@@ -1,5 +1,33 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: allsaint portfolio
+description: MalDev / C++ / RevEng
 show_downloads: true
 google_analytics:
+
+
+
 theme: jekyll-theme-hacker
+name: allsaint blog
+description: SOC analyst
+avatar: ../images/logo.png
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: allsaint
+  instagram:
+  linkedin: 
+  pinterest:
+  rss: 
+  stackoverflow: 
+  youtube: 
+  googleplus:
+
+
+disqus:
+google_analytics:
+url:
+baseurl: ""
+permalink: /:title/
+version: v1.2.0
+
