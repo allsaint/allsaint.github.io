@@ -3,3 +3,4 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+/home/allsaints/Documents/GitHub Pages/allsaint.github.io/_layouts/default(old).html
