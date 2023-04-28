@@ -24,7 +24,7 @@ This is a quick tutorial on asprotect unpacking. Asprotect is one of the popular
 
 
 
-[Asprotect unpacking](./asprotect-unpacking.md)
+[Asprotect unpacking](./articles/asprotect-unpacking.html)
 
 # About
 
