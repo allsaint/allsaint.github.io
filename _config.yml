@@ -1,4 +1,4 @@
-title: allsaint portfolio
+title: allsaint
 description: MalDev / C++ / RevEng
 show_downloads: true
 google_analytics:
@@ -7,7 +7,6 @@ google_analytics:
 
 theme: jekyll-theme-hacker
 name: allsaint blog
-description: SOC analyst
 avatar: ../images/logo.png
 footer-links:
   dribbble:
